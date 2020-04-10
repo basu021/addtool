@@ -1,0 +1,11 @@
+echo -e "\e[91m+-   -+-   -+-   -+-   -+-   -+-   -+-  -+-"
+echo -e "\e[91m _                    \e[0m\e[96m [ v:- 1.0 ]        !" 
+echo -e "\e[91m|_| _| _| o _|_ o  _ __                   !"
+echo -e "\e[91m| |(_|(_| |  |_ | (_)| |    		  !"
+echo -e "\e[91m					  !"
+echo -e "\e[91m╔╦╗┌─┐┌─┐┬    \e[0m\e[96mBy:- Basudev		  !"
+echo -e "\e[91m ║ │ ││ ││     				  !"
+echo -e "\e[91m ╩ └─┘└─┘┴─┘ \e[0m\e[96mInsta:- @basudevrout2001	  !"
+echo -e "\e[91m					  !"
+echo -e "\e[91m+-   -+-   -+-   -+-   -+-   -+-   -+-  -+-"
+
